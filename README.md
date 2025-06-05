@@ -9,7 +9,7 @@
 
 
 - [Auto.js 系列教程](./autojs/README.md)
-![autojs](./autojs/autojs.jpg)
+<img src="./autojs/autojs.jpg" width="200" height="200" />
 
 
 - [Three.js 系列教程](./threejs-tutorial/README.md)
