@@ -9,12 +9,12 @@
 
 
 - [Auto.js 系列教程](./autojs/README.md)
-<img src="./autojs/autojs.jpg" width="200" height="200" />
+<img src="./autojs/autojs.jpg" width="400" height="200" />
 
 
 - [Three.js 系列教程](./threejs-tutorial/README.md)
-![threejs](./threejs-tutorial/threejs.png)
+<img src="./threejs-tutorial/threejs.png" width="400" height="200" />
 
 
 - [nest.js 系列教程](./nestjs系列学习/README.md)
-![nestjs](./nestjs系列学习/nestjs.png)
+<img src="./nestjs系列学习/nestjs.png" width="400" height="200" />
