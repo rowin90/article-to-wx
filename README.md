@@ -16,5 +16,5 @@
 ![threejs](./threejs-tutorial/threejs.png)
 
 
-- [nest.js 系列教程](./nest系列学习/README.md)
-![nestjs](./nest系列学习/nestjs.png)
+- [nest.js 系列教程](./nestjs系列学习/README.md)
+![nestjs](./nestjs系列学习/nestjs.png)
