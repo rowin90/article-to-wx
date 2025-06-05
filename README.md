@@ -6,11 +6,11 @@
 
 
 > 目前编写的系列文章：
-![autojs](./assets/autojs.jpg)
+![autojs](./autojs/autojs.jpg)
 - [Auto.js 系列教程](./autojs/README.md)
 
-![threejs](./assets/threejs.png)
+![threejs](./threejs-tutorial/threejs.png)
 - [Three.js 系列教程](./threejs-tutorial/README.md)
 
-![nestjs](./assets/nestjs.png)
+![nestjs](./nest系列学习/nestjs.png)
 - [nest.js 系列教程](./nest系列学习/README.md)
