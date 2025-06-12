@@ -20,3 +20,6 @@
 
 - [nest.js 系列教程](./nestjs系列学习/README.md)
 <img src="./nestjs系列学习/nestjs.png" width="400" height="200" />
+
+- [Next.js 系列教程](./nextjs/README.md)
+<img src="./nextjs/nextjs.jpg" width="400" height="200" />
