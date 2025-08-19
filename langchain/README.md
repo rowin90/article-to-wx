@@ -1,10 +1,10 @@
-# LangChain.js 与 LangGraph 0.3 完整教程
+# LangChain.js 与 LangGraph
 
-大家好，我是鲫小鱼。这是一套专为前端开发者设计的 LangChain.js 和 LangGraph 0.3 完整教程，旨在帮助前端同学转型或扩展 AI 相关技能，在 AI 时代保持技术竞争力。
+大家好，我是鲫小鱼。这是一套专为前端开发者设计的 LangChain.js 和 LangGraph 完整教程，旨在帮助前端同学转型或扩展 AI 相关技能，在 AI 时代保持技术竞争力。
 
 ## 🎯 教程目标
 
-- 📖 **系统学习**：从零开始，全面掌握 LangChain.js 和 LangGraph 0.3
+- 📖 **系统学习**：从零开始，全面掌握 LangChain.js 和 LangGraph
 - 🛠️ **实战导向**：每个章节都包含丰富的代码示例和实际项目
 - 🚀 **技能转型**：帮助前端开发者顺利转型 AI 工程师
 - 💼 **职业发展**：提供企业级 AI 应用开发经验
@@ -12,43 +12,43 @@
 ## 📚 课程大纲
 
 ### 基础篇（第1-5章）
-- [第1章：LangChain.js 与 AI 应用开发入门](./01-langchain-ai-intro.md)
-- [第2章：Prompt Engineering 与模板系统深度实践](./02-prompt-engineering.md)
-- [第3章：Memory 系统与对话状态管理](./03-memory-management.md)
-- [第4章：Callback 机制与事件驱动架构](./04-callback-system.md)
-- [第5章：Runnable 接口与任务编排系统](./05-runnable-interface.md)
+- [第1章：LangChain.js 与 AI 应用开发入门](./1.LangChain.js 与 AI 应用开发入门.md)
+- [第2章：Prompt Engineering 与模板系统深度实践](./2.Prompt Engineering 与模板系统深度实践.md)
+- [第3章：Memory 系统与对话状态管理](./3.Memory 系统与对话状态管理.md)
+- [第4章：Callback 机制与事件驱动架构](./4.Callback 机制与事件驱动架构.md)
+- [第5章：Runnable 接口与任务编排系统](./5.Runnable 接口与任务编排系统.md)
 
 ### 进阶篇（第6-10章）
-- [第6章：Vector 向量化技术与语义搜索](./06-vector-semantic-search.md)
-- [第7章：RAG (检索增强生成) 架构设计与实现](./07-rag-architecture.md)
-- [第8章：Agent 智能代理系统开发](./08-agent-system.md)
-- [第9章：LangGraph 0.3 状态图与工作流引擎](./09-langgraph-workflow.md)
-- [第10章：多模态 AI 应用开发](./10-multimodal-ai.md)
+- [第6章：Vector 向量化技术与语义搜索](./6.Vector 向量化技术与语义搜索.md)
+- [第7章：RAG (检索增强生成) 架构设计与实现](./7.RAG (检索增强生成) 架构设计与实现.md)
+- [第8章：Agent 智能代理系统开发](./8.Agent 智能代理系统开发.md)
+- [第9章：LangGraph 0.3 状态图与工作流引擎](./9.LangGraph 0.3 状态图与工作流引擎.md)
+- [第10章：多模态 AI 应用开发](./10.多模态 AI 应用开发.md)
 
 ### 架构篇（第11-14章）
-- [第11章：企业级 AI 应用架构设计](./11-enterprise-architecture.md)
-- [第12章：高性能 AI 应用优化技术](./12-performance-optimization.md)
-- [第13章：AI Agent 生态系统与工具集成](./13-agent-ecosystem.md)
-- [第14章：生产环境部署与 DevOps 实践](./14-production-deployment.md)
+- [第11章：企业级 AI 应用架构设计](./11.企业级 AI 应用架构设计.md)
+- [第12章：高性能 AI 应用优化技术](./12.高性能 AI 应用优化技术.md)
+- [第13章：AI Agent 生态系统与工具集成](./13.AI Agent 生态系统与工具集成.md)
+- [第14章：生产环境部署与 DevOps 实践](./14.生产环境部署与 DevOps 实践.md)
 
 ### 实战篇（第15-17章）
-- [第15章：实战综合项目一：智能文档处理系统](./15-project-document-system.md)
-- [第16章：实战综合项目二：AI 驱动的代码助手](./16-project-code-assistant.md)
-- [第17章：实战综合项目三：个性化学习助手平台](./17-project-learning-platform.md)
+- [第15章：实战综合项目一：智能文档处理系统](./15.实战综合项目一：智能文档处理系统.md)
+- [第16章：实战综合项目二：AI 驱动的代码助手](./16.实战综合项目二：AI 驱动的代码助手.md)
+- [第17章：实战综合项目三：个性化学习助手平台](./17.实战综合项目三：个性化学习助手平台.md)
 
 ### 拓展篇（第18-21章）
-- [第18章：AI 应用安全与伦理实践](./18-ai-security-ethics.md)
-- [第19章：前端 AI 开发进阶技巧](./19-frontend-ai-advanced.md)
-- [第20章：AI 应用测试与质量保证](./20-ai-testing-qa.md)
-- [第21章：社区贡献与开源实践](./21-community-opensource.md)
+- [第18章：AI 应用安全与伦理实践](./18.AI 应用安全与伦理实践.md)
+- [第19章：前端 AI 开发进阶技巧](./19.前端 AI 开发进阶技巧.md)
+- [第20章：AI 应用测试与质量保证](./20.AI 应用测试与质量保证.md)
+- [第21章：社区贡献与开源实践](./21.社区贡献与开源实践.md)
 
 ## 🔧 技术栈
 
 ### 核心技术
-- **LangChain.js 0.3**：构建 AI 应用的核心框架
-- **LangGraph 0.3**：状态图与工作流引擎
+- **LangChain.js**：构建 AI 应用的核心框架
+- **LangGraph **：状态图与工作流引擎
 - **TypeScript**：类型安全的开发体验
-- **Node.js 18+**：服务端运行环境
+- **Node.js**：服务端运行环境
 
 ### 前端技术
 - **React 18+**：用户界面构建
@@ -176,7 +176,7 @@ main();
 
 ✅ **掌握核心技能**
 - 熟练使用 LangChain.js 构建 AI 应用
-- 精通 LangGraph 0.3 的工作流设计
+- 精通 LangGraph 的工作流设计
 - 具备 Prompt Engineering 专业能力
 - 理解向量化与 RAG 系统实现
 
