@@ -23,3 +23,7 @@
 
 - [Next.js 系列教程](./nextjs/README.md)
 <img src="./nextjs/nextjs.jpg" width="400" height="200" />
+
+
+- [LangChain.js 与 LangGraph 0.3 系列教程](./langchain-tutorial/README.md)
+<img src="./langchain-tutorial/langchain.jpg" width="400" height="200" />
